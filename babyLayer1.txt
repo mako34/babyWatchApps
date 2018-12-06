@@ -1,66 +1,143 @@
 Drill down more... 
 
-package:/system/app/CaptivePortalLogin/CaptivePortalLogin.apk=com.android.captiveportallogin
-package:/system/app/WeChat/WeChat.apk=com.sgtc.wechat
-package:/system/app/BluetoothMidiService/BluetoothMidiService.apk=com.android.bluetoothmidiservice
-package:/system/app/CenterProvider/CenterProvider.apk=com.sgtc.provider
-package:/system/app/AppIMEI/AppIMEI.apk=com.app.imei
-package:/system/app/DeskClock/DeskClock.apk=com.android.deskclock
-package:/system/app/UserDictionaryProvider/UserDictionaryProvider.apk=com.android.providers.userdictionary
-package:/system/app/LiveWallpapers/LiveWallpapers.apk=com.android.wallpaper
-package:/system/app/SgtcReceiver/SgtcReceiver.apk=com.sgtc.sgtcreceiver
-package:/system/app/NoiseField/NoiseField.apk=com.android.noisefield
-package:/system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk=com.android.wallpaper.livepicker
-package:/system/app/SgtcAppMa/SgtcAppMa.apk=com.example.sgtcappma
-package:/system/app/SgtcZxing/SgtcZxing.apk=com.example.sgtczxing
-package:/system/app/FileClear/FileClear.apk=com.sgtc.fileclear
-package:/system/app/LatinIME/LatinIME.apk=com.android.inputmethod.latin
-package:/system/app/Gallery2/Gallery2.apk=com.android.gallery3d
-package:/system/app/KeyChain/KeyChain.apk=com.android.keychain
-package:/system/app/AutoDialer/AutoDialer.apk=com.example
-package:/system/app/BasicDreams/BasicDreams.apk=com.android.dreams.basic
-package:/system/app/webview/webview.apk=com.android.webview
-package:/system/app/HoloSpiralWallpaper/HoloSpiralWallpaper.apk=com.android.wallpaper.holospiral
-package:/system/app/PhaseBeam/PhaseBeam.apk=com.android.phasebeam
-package:/system/app/TouchMakeFriends/TouchMakeFriends.apk=com.sgtc.ppmf
-package:/system/app/Provision/Provision.apk=com.android.provision
-package:/system/app/EngineerCode/EngineerCode.apk=com.zte.engineer
-package:/system/app/SgClass/SgClass.apk=com.sgtc.sgclass
-package:/system/app/DownloadProviderUi/DownloadProviderUi.apk=com.android.providers.downloads.ui
-package:/system/app/CertInstaller/CertInstaller.apk=com.android.certinstaller
-package:/system/app/PinyinIME/PinyinIME.apk=com.android.inputmethod.pinyin
-package:/system/app/AdupsFota/AdupsFota.apk=com.adups.fota
-package:/system/app/ApplicationsProvider/ApplicationsProvider.apk=com.android.providers.applications
-package:/system/app/SoundRecorder/SoundRecorder.apk=com.android.soundrecorder
-package:/system/app/HTMLViewer/HTMLViewer.apk=com.android.htmlviewer
-package:/system/app/FastBoardFactory/FastBoardFactory.apk=com.sgtc.fastboardfactory
-package:/system/app/DocumentsUI/DocumentsUI.apk=com.android.documentsui
-package:/system/app/Galaxy4/Galaxy4.apk=com.android.galaxy4
-package:/system/app/AdupsFotaReboot/AdupsFotaReboot.apk=com.adups.fota.sysoper
 
-Reconozco en reloj
-package:/system/app/Contact/Contact.apk=com.sgtc.contact
+            apps en watch
 
-//
-apps en watch
+18 apps corriendo
+
+    13 apps en launcher screen
 
 . hacer matching supocisiones por nombre!, verificar
 
 . launcher?
+
 - Contact
+package:/system/app/Contact/Contact.apk=com.sgtc.contact
+
 - wechat
+package:/system/app/WeChat/WeChat.apk=com.sgtc.wechat
+
 - phone
+
 - friends
+package:/system/app/TouchMakeFriends/TouchMakeFriends.apk=com.sgtc.ppmf
+
 - regcode
+package:/system/app/AppIMEI/AppIMEI.apk=com.app.imei ??
+
+
 - schedule
 - torchlight
 - cleaning tools
 - camera
+
 - gallery
+package:/system/app/Gallery2/Gallery2.apk=com.android.gallery3d
+
 - settings
 - file manager
+package:/system/app/FileClear/FileClear.apk=com.sgtc.fileclear ???
+
 - app code
+package:/system/app/EngineerCode/EngineerCode.apk=com.zte.engineer ?
 
-13 apps en launcher screen
 
-18 apps corriendo
+
+
+
+
+package:/system/app/CaptivePortalLogin/CaptivePortalLogin.apk=com.android.captiveportallogin
+    authentication to open WiFi networks. 
+
+package:/system/app/BluetoothMidiService/BluetoothMidiService.apk=com.android.bluetoothmidiservice
+package:/system/app/DeskClock/DeskClock.apk=com.android.deskclock
+package:/system/app/UserDictionaryProvider/UserDictionaryProvider.apk=com.android.providers.userdictionary
+package:/system/app/LiveWallpapers/LiveWallpapers.apk=com.android.wallpaper
+package:/system/app/NoiseField/NoiseField.apk=com.android.noisefield
+package:/system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk=com.android.wallpaper.livepicker
+package:/system/app/LatinIME/LatinIME.apk=com.android.inputmethod.latin
+package:/system/app/KeyChain/KeyChain.apk=com.android.keychain
+package:/system/app/BasicDreams/BasicDreams.apk=com.android.dreams.basic
+package:/system/app/webview/webview.apk=com.android.webview
+package:/system/app/HoloSpiralWallpaper/HoloSpiralWallpaper.apk=com.android.wallpaper.holospiral
+package:/system/app/PhaseBeam/PhaseBeam.apk=com.android.phasebeam
+package:/system/app/Provision/Provision.apk=com.android.provision
+package:/system/app/DownloadProviderUi/DownloadProviderUi.apk=com.android.providers.downloads.ui
+package:/system/app/CertInstaller/CertInstaller.apk=com.android.certinstaller
+package:/system/app/PinyinIME/PinyinIME.apk=com.android.inputmethod.pinyin
+package:/system/app/ApplicationsProvider/ApplicationsProvider.apk=com.android.providers.applications
+package:/system/app/SoundRecorder/SoundRecorder.apk=com.android.soundrecorder
+package:/system/app/HTMLViewer/HTMLViewer.apk=com.android.htmlviewer
+package:/system/app/DocumentsUI/DocumentsUI.apk=com.android.documentsui
+package:/system/app/Galaxy4/Galaxy4.apk=com.android.galaxy4
+
+
+
+package:/system/app/CenterProvider/CenterProvider.apk=com.sgtc.provider
+
+package:/system/app/SgtcReceiver/SgtcReceiver.apk=com.sgtc.sgtcreceiver
+
+package:/system/app/SgtcAppMa/SgtcAppMa.apk=com.example.sgtcappma
+package:/system/app/SgtcZxing/SgtcZxing.apk=com.example.sgtczxing
+
+package:/system/app/AutoDialer/AutoDialer.apk=com.example
+
+package:/system/app/SgClass/SgClass.apk=com.sgtc.sgclass
+
+package:/system/app/AdupsFota/AdupsFota.apk=com.adups.fota
+    spyware
+ It transmits every details of your phone and it can remotely access all your documents.
+Be careful. Check your phone and run debloater on it
+https://forum.xda-developers.com/elephone-s8/how-to/beware-com-adups-fota-myapplication-t3741622
+???
+Adups is a Chinese provider of FOTA (firmware over-the-air) 
+update services to a number of OEMs including Elephone !!!
+
+    	
+How to check/remove system apps
+Quote:
+Originally Posted by Doge199 
+I want to draw attention of all the users of Elephone that the stock ROM is bloated with a spyware com.adups.fota 
+I found this on my phone today. It transmits every details of your phone and it can remotely access all your documents.
+Be careful. Check your phone and run debloater on it.
+
+This is a serious accusation, the OP should include concrete evidence and more details.
+
+Here is my research:
+
+Adups is a Chinese provider of FOTA (firmware over-the-air) update services to a number of OEMs including Elephone. In 2016, there was this news about spyware in some of BLU devices. Here is a good read: https://android.gadgethacks.com/news...yware-0175014/
+
+Here are official Adups' responses: http://www.adups.com/article/article.php?id=113
+transmitting text, data, call, location, and app data to a Chinese server every 72 hours
+
+Sounds to me like that thing happened to some BLU devices and then Adups updated the OTA app to remove that thing. And, I checked our OTA app is newer than that of the BLU in the news.
+
+Anyway, for those who want to check or remove the app in question, below is how.
+If you don't know how to use ADB, then you should probably just skip the rest of my comment. 
+The following commands don't require root to work.
+
+
+To check:
+
+>adb shell
+>pm list packages -f|grep adups
+
+package:/system/app/FastBoardFactory/FastBoardFactory.apk=com.sgtc.fastboardfactory
+
+package:/system/app/AdupsFotaReboot/AdupsFotaReboot.apk=com.adups.fota.sysoper
+
+Reconozco en reloj
+
+if remove,,, For one thing, obviously you will not get Firmware update via OTA.
+
+>pm uninstall -k --user 0 com.adups.fota
+>pm uninstall -k --user 0 com.adups.fota.sysoper
+
+ according to kryptowire, and despite adups' claims to the contrary, 
+ adups spyware problems continued in 2017. 
+ These include enabling adups to run any software they like on your phone at any time. 
+ Not only that, but the backdoor uses unsecured comms protocols that could potentially be exploited by ... well, anyone.
+
+https://www.digitaltrends.com/mobile/kryptowire-adups-news/
+
+//
