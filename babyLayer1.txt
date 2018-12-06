@@ -1,0 +1,66 @@
+Drill down more... 
+
+package:/system/app/CaptivePortalLogin/CaptivePortalLogin.apk=com.android.captiveportallogin
+package:/system/app/WeChat/WeChat.apk=com.sgtc.wechat
+package:/system/app/BluetoothMidiService/BluetoothMidiService.apk=com.android.bluetoothmidiservice
+package:/system/app/CenterProvider/CenterProvider.apk=com.sgtc.provider
+package:/system/app/AppIMEI/AppIMEI.apk=com.app.imei
+package:/system/app/DeskClock/DeskClock.apk=com.android.deskclock
+package:/system/app/UserDictionaryProvider/UserDictionaryProvider.apk=com.android.providers.userdictionary
+package:/system/app/LiveWallpapers/LiveWallpapers.apk=com.android.wallpaper
+package:/system/app/SgtcReceiver/SgtcReceiver.apk=com.sgtc.sgtcreceiver
+package:/system/app/NoiseField/NoiseField.apk=com.android.noisefield
+package:/system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk=com.android.wallpaper.livepicker
+package:/system/app/SgtcAppMa/SgtcAppMa.apk=com.example.sgtcappma
+package:/system/app/SgtcZxing/SgtcZxing.apk=com.example.sgtczxing
+package:/system/app/FileClear/FileClear.apk=com.sgtc.fileclear
+package:/system/app/LatinIME/LatinIME.apk=com.android.inputmethod.latin
+package:/system/app/Gallery2/Gallery2.apk=com.android.gallery3d
+package:/system/app/KeyChain/KeyChain.apk=com.android.keychain
+package:/system/app/AutoDialer/AutoDialer.apk=com.example
+package:/system/app/BasicDreams/BasicDreams.apk=com.android.dreams.basic
+package:/system/app/webview/webview.apk=com.android.webview
+package:/system/app/HoloSpiralWallpaper/HoloSpiralWallpaper.apk=com.android.wallpaper.holospiral
+package:/system/app/PhaseBeam/PhaseBeam.apk=com.android.phasebeam
+package:/system/app/TouchMakeFriends/TouchMakeFriends.apk=com.sgtc.ppmf
+package:/system/app/Provision/Provision.apk=com.android.provision
+package:/system/app/EngineerCode/EngineerCode.apk=com.zte.engineer
+package:/system/app/SgClass/SgClass.apk=com.sgtc.sgclass
+package:/system/app/DownloadProviderUi/DownloadProviderUi.apk=com.android.providers.downloads.ui
+package:/system/app/CertInstaller/CertInstaller.apk=com.android.certinstaller
+package:/system/app/PinyinIME/PinyinIME.apk=com.android.inputmethod.pinyin
+package:/system/app/AdupsFota/AdupsFota.apk=com.adups.fota
+package:/system/app/ApplicationsProvider/ApplicationsProvider.apk=com.android.providers.applications
+package:/system/app/SoundRecorder/SoundRecorder.apk=com.android.soundrecorder
+package:/system/app/HTMLViewer/HTMLViewer.apk=com.android.htmlviewer
+package:/system/app/FastBoardFactory/FastBoardFactory.apk=com.sgtc.fastboardfactory
+package:/system/app/DocumentsUI/DocumentsUI.apk=com.android.documentsui
+package:/system/app/Galaxy4/Galaxy4.apk=com.android.galaxy4
+package:/system/app/AdupsFotaReboot/AdupsFotaReboot.apk=com.adups.fota.sysoper
+
+Reconozco en reloj
+package:/system/app/Contact/Contact.apk=com.sgtc.contact
+
+//
+apps en watch
+
+. hacer matching supocisiones por nombre!, verificar
+
+. launcher?
+- Contact
+- wechat
+- phone
+- friends
+- regcode
+- schedule
+- torchlight
+- cleaning tools
+- camera
+- gallery
+- settings
+- file manager
+- app code
+
+13 apps en launcher screen
+
+18 apps corriendo
